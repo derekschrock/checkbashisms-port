@@ -1,0 +1,22 @@
+diff --git a/Makefile b/Makefile
+index ef9568f..3af67fc 100644
+--- a/Makefile
++++ b/Makefile
+@@ -1,7 +1,7 @@
+ # $FreeBSD$
+ 
+ PORTNAME=	checkbashisms
+-PORTVERSION=	2.14.1
++PORTVERSION=	2.15.5
+ CATEGORIES=	devel perl5
+ MASTER_SITES=	DEBIAN/pool/main/d/devscripts/
+ DISTNAME=	devscripts_${PORTVERSION}
+diff --git a/distinfo b/distinfo
+index 8ab327d..790e616 100644
+--- a/distinfo
++++ b/distinfo
+@@ -1,2 +1,2 @@
+-SHA256 (devscripts_2.14.1.tar.xz) = ffe65282507160379aafbb8f5610a9447d19f827ace83e8bcf5e95902ae0d2a0
+-SIZE (devscripts_2.14.1.tar.xz) = 583940
++SHA256 (devscripts_2.15.5.tar.xz) = 19b9fdd343178370c2d0fc17a5aa2327126b0f5da8ca967f75445dbdd4f63c73
++SIZE (devscripts_2.15.5.tar.xz) = 617680

@@ -1,7 +1,7 @@
 # $FreeBSD$
 
 PORTNAME=	checkbashisms
-PORTVERSION=	2.14.1
+PORTVERSION=	2.15.5
 CATEGORIES=	devel perl5
 MASTER_SITES=	DEBIAN/pool/main/d/devscripts/
 DISTNAME=	devscripts_${PORTVERSION}
